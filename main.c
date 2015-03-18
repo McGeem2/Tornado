@@ -1,7 +1,6 @@
  #include <stdio.h>
-  #include <conio.h>
-  #include <dos.h>
-
+#include <string.h>
+#include <math.h>
 char * shiftString(char *s);
 char * shiftString( char *s )
 {
